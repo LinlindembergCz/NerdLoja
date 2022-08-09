@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "sw+hX4mqYZYX5Q3B1SFxiVrBkA5i0HFH/ANsTxbqAcGxR7q+xJQcNg8WKq7kY5XVZwo3kZhvW6APGLHrzMNjVw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lcaraujo1\\Downloads\\04 - FULL Projeto NerdStore Completo\\04 - FULL Projeto NerdStore Completo\\src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lcaraujo1\\.nuget\\packages\\fluentvalidation\\11.1.0\\fluentvalidation.11.1.0.nupkg.sha512",
+    "C:\\Users\\lcaraujo1\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\lcaraujo1\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
